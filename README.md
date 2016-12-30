@@ -10,7 +10,9 @@ Ipython notebook script with a two parameter monthly water balance model, based 
 
 ## Software Requirements
 jupyter
+
 Ipython notebook
+
 Python dependencies installed
 - numpy
 - pandas

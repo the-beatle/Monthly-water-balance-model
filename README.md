@@ -9,6 +9,11 @@ Ipython notebook script with a two parameter monthly water balance model, based 
 - Minor scale factors are smoothed out
 
 ## Software Requirements
+jupyter
+Ipython notebook
 Python dependencies installed
 - numpy
 - pandas
+
+## Contact
+marcae7@gmail.com

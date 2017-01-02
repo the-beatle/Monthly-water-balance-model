@@ -1,7 +1,7 @@
 #[Monthly water balance model](https://github.com/marcae777/Monthly-water-balance-model)
 Ipython notebook script with a two parameter monthly water balance model, based on (Xiong,1994)
 
-## Key features
+## Key Features
 - For conversion of rainfall into runoff in a catchment
 - Simulate monthly runoff conditions in the humid and semi-humid regions
 - Simple, with only two parametes
@@ -19,3 +19,4 @@ Python dependencies installed
 
 ## Contact
 marcae7@gmail.com
+mario.cano@siata.gov.co
